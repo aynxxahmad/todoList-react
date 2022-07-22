@@ -8,10 +8,15 @@
 html{
     font-size: 62.5%;
 }
+.wrapper{
+    overflow-x:hidden;
+}
 body{
     background-color: #36096d;
     background-image: linear-gradient(89deg, #36096d 0%, #0b7676 74%);
     overflow-x: hidden;
+    height: 100%;
+    width: 100%;
 }
 
 /*NAVBAR STYLES*/
